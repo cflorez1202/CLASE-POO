@@ -1,2 +1,1 @@
-# CLASE-POO
-Este es mi primer repositorio
+class perro
